@@ -1,0 +1,114 @@
+{
+  "materia": "Ciencias de la Naturaleza",
+  "curso": "5º de Primaria (Tercer ciclo)",
+  "competencias_especificas": [
+    {
+      "id": "CE1",
+      "texto": "Utilizar dispositivos y recursos digitales de forma segura, responsable y eficiente, para buscar información, comunicarse y trabajar de manera individual, en equipo y en red, y para reelaborar y crear contenido digital de acuerdo con las necesidades digitales del contexto educativo.",
+      "descriptores": ["CCL3", "STEM4", "CD1", "CD2", "CD3", "CD4", "CD5", "CCEC4"],
+      "criterios_evaluacion": [
+        "1.1. Utilizar recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura y eficiente, buscando información, comunicándose y trabajando de forma individual, en equipo y en red, reelaborando y creando contenidos digitales sencillos."
+      ]
+    },
+    {
+      "id": "CE2",
+      "texto": "Plantear y dar respuesta a cuestiones científicas sencillas, utilizando diferentes técnicas, instrumentos y modelos propios del pensamiento científico, para interpretar y explicar hechos y fenómenos que ocurren en el medio natural, social y cultural.",
+      "descriptores": ["CCL1", "CCL2", "CCL3", "STEM2", "STEM4", "CD1", "CD2", "CC4"],
+      "criterios_evaluacion": [
+        "2.1. Formular preguntas y realizar predicciones razonadas sobre el medio natural mostrando y manteniendo la curiosidad.",
+        "2.2. Buscar, seleccionar y contrastar información, de diferentes fuentes seguras y fiables, usando los criterios de fiabilidad de fuentes, adquiriendo léxico científico básico, y utilizándola en investigaciones relacionadas con el medio natural.",
+        "2.3. Diseñar y realizar experimentos guiados, cuando la investigación lo requiera, utilizando diferentes técnicas de indagación y modelos, empleando de forma segura los instrumentos y dispositivos apropiados, realizando observaciones y mediciones precisas y registrándolas correctamente.",
+        "2.4. Proponer posibles respuestas a las preguntas planteadas, a través del análisis e la interpretación de la información y los resultados obtenidos, valorando la coherencia de las posibles soluciones y comparándolas con las predicciones realizadas.",
+        "2.5. Comunicar los resultados de las investigaciones adaptando el mensaje y el formato a la audiencia a la que va dirigido, utilizando el lenguaje científico y explicando los pasos seguidos."
+      ]
+    },
+    {
+      "id": "CE3",
+      "texto": "Resolver problemas a través de proyectos de diseño y de la aplicación del pensamiento computacional, para generar cooperativamente un producto creativo e innovador que responda a necesidades concretas.",
+      "descriptores": ["STEM3", "STEM4", "CD5", "CPSAA3", "CPSAA4", "CPSAA5", "CE1", "CE3", "CCEC4"],
+      "criterios_evaluacion": [
+        "3.1. Plantear problemas de diseño que se resuelvan con la creación de un prototipo o solución digital, evaluando necesidades del entorno y estableciendo objetivos concretos.",
+        "3.2. Diseñar posibles soluciones a los problemas planteados de acuerdo con técnicas sencillas de los proyectos de diseño y pensamiento computacional, mediante estrategias básicas de gestión de proyectos cooperativos, teniendo en cuenta los recursos necesarios y estableciendo criterios concretos para evaluar el proyecto.",
+        "3.3. Desarrollar un producto final que dé solución a un problema de diseño, probando en equipo diferentes prototipos o soluciones digitales y utilizando de forma segura las herramientas, dispositivos, técnicas y materiales adecuados.",
+        "3.4. Comunicar el diseño de un producto final, adaptando el mensaje y el formato a la audiencia, explicando los pasos seguidos, justificando por qué ese prototipo o solución digital cumple con los requisitos del proyecto y proponiendo posibles retos para futuros proyectos."
+      ]
+    },
+    {
+      "id": "CE4",
+      "texto": "Conocer y tomar conciencia del propio cuerpo, así como de las emociones y sentimientos propios y ajenos, aplicando el conocimiento científico, para desarrollar hábitos saludables y para conseguir el bienestar físico, emocional y social.",
+      "descriptores": ["STEM5", "CPSAA1", "CPSAA2", "CPSAA3", "CC3"],
+      "criterios_evaluacion": [
+        "4.1. Adoptar estilos de vida saludables valorando la importancia de una alimentación variada, equilibrada y sostenible, el ejercicio físico, el contacto con la naturaleza, el descanso, la higiene, la prevención de enfermedades y el uso adecuado de nuevas tecnologías."
+      ]
+    },
+    {
+      "id": "CE5",
+      "texto": "Identificar las características de los diferentes elementos o sistemas del medio natural, social y cultural, analizando su organización y propiedades y estableciendo relaciones entre los mismos, para reconocer el valor del patrimonio cultural y natural, conservarlo, mejorarlo y emprender acciones para su uso responsable.",
+      "descriptores": ["STEM1", "STEM2", "STEM4", "STEM5", "CD1", "CC4", "CE1", "CCEC1"],
+      "criterios_evaluacion": [
+        "5.1. Identificar y analizar las características, la organización y las propiedades de los elementos del medio natural a través de la indagación utilizando las herramientas y procesos adecuados.",
+        "5.2. Establecer conexiones sencillas entre diferentes elementos del medio natural mostrando comprensión de las relaciones que se establecen.",
+        "5.3. Valorar, proteger y mostrar actitudes de conservación y mejora del patrimonio natural a través de propuestas y acciones que reflejen compromisos y conductas en favor de la sostenibilidad."
+      ]
+    }
+  ],
+  "saberes_basicos": {
+    "bloque_A_Cultura_cientifica": {
+      "subbloques": [
+        {
+          "titulo": "1. Iniciación en la actividad científica",
+          "contenidos": [
+            "Fases de la investigación científica (observación, formulación de preguntas y predicciones, planificación y realización de experimentos, recogida y análisis de información y datos, comunicación de resultados...).",
+            "Instrumentos y dispositivos apropiados para realizar observaciones y mediciones precisas de acuerdo con las necesidades de la investigación.",
+            "Vocabulario científico básico relacionado con las diferentes investigaciones.",
+            "Fomento de la curiosidad, la iniciativa, la constancia y el sentido de la responsabilidad en la realización de las diferentes investigaciones.",
+            "La ciencia, la tecnología y la ingeniería como actividades humanas. Las profesiones STEM en la actualidad desde una perspectiva de género.",
+            "La relación entre los avances en matemáticas, ciencia, ingeniería y tecnología para comprender la evolución de la sociedad en el ámbito científico-tecnológico.",
+            "Importantes descubrimientos e inventos.",
+            "Técnicas de estudio y trabajo. Desarrollo de hábitos de trabajo. Esfuerzo y responsabilidad."
+          ]
+        },
+        {
+          "titulo": "2. La vida en nuestro planeta",
+          "contenidos": [
+            "Aspectos básicos de las funciones vitales del ser humano desde una perspectiva integrada: obtención de energía, relación con el entorno y perpetuación de la especie.",
+            "Los cambios físicos, emocionales y sociales que conllevan la pubertad y la adolescencia para aceptarlos de forma positiva tanto en uno mismo como en los demás. Educación afectivo-sexual.",
+            "Pautas para una alimentación saludable y sostenible: menús saludables y equilibrados. La importancia de la cesta de la compra y del etiquetado de los productos alimenticios para conocer sus nutrientes y su aporte energético.",
+            "Pautas que fomenten una salud emocional y social adecuadas: higiene del sueño, prevención y consecuencias del consumo de drogas (legales e ilegales), gestión saludable del ocio y del tiempo libre, contacto con la naturaleza, uso adecuado de dispositivos digitales, estrategias para el fomento de relaciones sociales saludables y fomento de los cuidados de las personas.",
+            "Pautas para la prevención de riesgos y accidentes. Conocimiento de actuaciones básicas de primeros auxilios."
+          ]
+        },
+        {
+          "titulo": "3. Materia, fuerzas y energía",
+          "contenidos": [
+            "Masa y volumen. Instrumentos para calcular la masa y la capacidad de un objeto. Concepto de densidad y su relación con la flotabilidad de un objeto en un líquido.",
+            "La energía eléctrica. Fuentes, transformaciones, transferencia y uso en la vida cotidiana. Relación entre electricidad y magnetismo. Los circuitos eléctricos y las estructuras robotizadas.",
+            "Las formas de energía, las fuentes y las transformaciones. Las fuentes de energías renovables y no renovables y su influencia en la contribución al desarrollo sostenible de la sociedad.",
+            "Artefactos voladores. Principios básicos del vuelo."
+          ]
+        }
+      ]
+    },
+    "bloque_B_Tecnologia_y_digitalizacion": {
+      "subbloques": [
+        {
+          "titulo": "1. Digitalización del entorno personal de aprendizaje",
+          "contenidos": [
+            "Dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo.",
+            "Estrategias de búsquedas de información seguras y eficientes en Internet (valoración, discriminación, selección, organización y propiedad intelectual).",
+            "Estrategias de recogida, almacenamiento y representación de datos para facilitar su comprensión y análisis."
+          ]
+        },
+        {
+          "titulo": "2. Proyectos de diseño y pensamiento computacional",
+          "contenidos": [
+            "Fases de los proyectos de diseño: identificación de necesidades, diseño, prototipado, prueba, evaluación y comunicación.",
+            "Fases del pensamiento computacional (descomposición de una tarea en partes más sencillas, reconocimiento de patrones y creación de algoritmos sencillos para la resolución del problema...).",
+            "Materiales, herramientas, objetos, dispositivos y recursos digitales (programación por bloques, sensores, motores, simuladores, impresoras 3D...) seguros y adecuados a la consecución del proyecto.",
+            "Estrategias en situaciones de incertidumbre: adaptación y cambio de estrategia cuando sea necesario, valoración del error propio y el de los demás como oportunidad de aprendizaje."
+          ]
+        }
+      ]
+    }
+  }
+}

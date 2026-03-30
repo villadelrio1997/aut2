@@ -1,0 +1,111 @@
+{
+  "materia": "Ciencias de la Naturaleza",
+  "curso": "4º de Primaria (Segundo ciclo)",
+  "competencias_especificas": [
+    {
+      "id": "CE1",
+      "texto": "Utilizar dispositivos y recursos digitales de forma segura, responsable y eficiente, para buscar información, comunicarse y trabajar de manera individual, en equipo y en red, y para reelaborar y crear contenido digital de acuerdo con las necesidades digitales del contexto educativo.",
+      "descriptores": ["CCL3", "STEM4", "CD1", "CD2", "CD3", "CD4", "CD5", "CCEC4"],
+      "criterios_evaluacion": [
+        "1.1. Utilizar dispositivos y recursos digitales, de acuerdo con las necesidades del contexto educativo de forma segura, buscando información, comunicándose y trabajando de forma individual y en equipo, reelaborando y creando contenidos digitales sencillos."
+      ]
+    },
+    {
+      "id": "CE2",
+      "texto": "Plantear y dar respuesta a cuestiones científicas sencillas, utilizando diferentes técnicas, instrumentos y modelos propios del pensamiento científico, para interpretar y explicar hechos y fenómenos que ocurren en el medio natural, social y cultural.",
+      "descriptores": ["CCL1", "CCL2", "CCL3", "STEM2", "STEM4", "CD1", "CD2", "CC4"],
+      "criterios_evaluacion": [
+        "2.1. Formular preguntas y realizar predicciones razonadas, demostrando curiosidad por el medio natural cercano.",
+        "2.2. Buscar y seleccionar información de diferentes fuentes seguras y fiables, utilizándola en investigaciones relacionadas con el medio natural y adquiriendo léxico científico básico.",
+        "2.3. Realizar experimentos guiados, cuando la investigación lo requiera, utilizando diferentes técnicas de indagación y modelos, empleando de forma segura instrumentos y dispositivos, realizando observaciones y mediciones precisas y registrándolas correctamente.",
+        "2.4. Proponer posibles respuestas a las preguntas planteadas, a través de la interpretación de la información y los resultados obtenidos, comparándolos con las predicciones realizadas.",
+        "2.5. Presentar los resultados de las investigaciones en diferentes formatos, utilizando lenguaje científico básico y explicando los pasos seguidos."
+      ]
+    },
+    {
+      "id": "CE3",
+      "texto": "Resolver problemas a través de proyectos de diseño y de la aplicación del pensamiento computacional, para generar cooperativamente un producto creativo e innovador que responda a necesidades concretas.",
+      "descriptores": ["STEM3", "STEM4", "CD5", "CPSAA3", "CPSAA4", "CPSAA5", "CE1", "CE3", "CCEC4"],
+      "criterios_evaluacion": [
+        "3.1. Construir en equipo un producto final sencillo que dé solución a un problema de diseño, proponiendo posibles soluciones, probando diferentes prototipos y utilizando de forma segura las herramientas, técnicas y materiales adecuados.",
+        "3.2. Presentar el producto final de los proyectos de diseño en diferentes formatos y explicando los pasos seguidos.",
+        "3.3. Resolver, de forma guiada, problemas sencillos de programación, modificando algoritmos de acuerdo con los principios básicos del pensamiento computacional."
+      ]
+    },
+    {
+      "id": "CE4",
+      "texto": "Conocer y tomar conciencia del propio cuerpo, así como de las emociones y sentimientos propios y ajenos, aplicando el conocimiento científico, para desarrollar hábitos saludables y para conseguir el bienestar físico, emocional y social.",
+      "descriptores": ["STEM5", "CPSAA1", "CPSAA2", "CPSAA3", "CC3"],
+      "criterios_evaluacion": [
+        "4.1. Mostrar actitudes que fomenten el bienestar emocional y social, identificando las emociones propias y las de los demás, mostrando empatía y estableciendo relaciones afectivas saludables."
+      ]
+    },
+    {
+      "id": "CE5",
+      "texto": "Identificar las características de los diferentes elementos o sistemas del medio natural, social y cultural, analizando su organización y propiedades y estableciendo relaciones entre los mismos, para reconocer el valor del patrimonio cultural y natural, conservarlo, mejorarlo y emprender acciones para su uso responsable.",
+      "descriptores": ["STEM1", "STEM2", "STEM4", "STEM5", "CD1", "CC4", "CE1", "CCEC1"],
+      "criterios_evaluacion": [
+        "5.1. Identificar las características, la organización y las propiedades de los elementos del medio natural a través de la indagación y utilizando las herramientas y procesos adecuados.",
+        "5.2. Identificar conexiones sencillas entre diferentes elementos del medio natural mostrando comprensión de las relaciones que se establecen.",
+        "5.3. Proteger el patrimonio natural y valorarlo como un bien común, adoptando conductas respetuosas para su disfrute y proponiendo acciones para su conservación y mejora."
+      ]
+    }
+  ],
+  "saberes_basicos": {
+    "bloque_A_Cultura_cientifica": {
+      "subbloques": [
+        {
+          "titulo": "1. Iniciación en la actividad científica",
+          "contenidos": [
+            "Procedimientos de indagación adecuados a las necesidades de la investigación (observación en el tiempo, identificación y clasificación, búsqueda de patrones, creación de modelos, investigación a través de búsqueda de información, experimentos con control de variables...).",
+            "Instrumentos y dispositivos apropiados para realizar observaciones y mediciones precisas de acuerdo a las necesidades de la investigación.",
+            "Vocabulario científico básico relacionado con las diferentes investigaciones.",
+            "Fomento de la curiosidad, la iniciativa y la constancia en la realización de las diferentes investigaciones.",
+            "Avances en el pasado relacionados con la ciencia y la tecnología que han contribuido a transformar nuestra sociedad mostrando modelos que incorporen una perspectiva de género.",
+            "La importancia del uso de la ciencia y la tecnología para ayudar a comprender las causas de las propias acciones, tomar decisiones razonadas y realizar tareas de forma más eficiente.",
+            "Técnicas de estudio y trabajo. Desarrollo de hábitos de trabajo. Esfuerzo y responsabilidad."
+          ]
+        },
+        {
+          "titulo": "2. La vida en nuestro planeta",
+          "contenidos": [
+            "Los reinos de la naturaleza desde una perspectiva general e integrada a partir del estudio y análisis de las características de diferentes ecosistemas.",
+            "Características propias de los animales que permiten su clasificación y diferenciación en subgrupos relacionados con su capacidad adaptativa al medio: obtención de energía, relación con el entorno y perpetuación de la especie.",
+            "Características propias de las plantas que permiten su clasificación en relación con su capacidad adaptativa al medio: obtención de energía, fotosíntesis, relación con el entorno y perpetuación de la especie.",
+            "Los ecosistemas como lugar donde intervienen factores bióticos y abióticos, manteniéndose un equilibrio entre los diferentes elementos y recursos. Importancia de la biodiversidad.",
+            "Las funciones y servicios de los ecosistemas."
+          ]
+        },
+        {
+          "titulo": "3. Materia, fuerzas y energía",
+          "contenidos": [
+            "El calor. Cambios de estado, materiales conductores y aislantes, instrumentos de medición y aplicaciones en la vida cotidiana.",
+            "Los cambios reversibles e irreversibles que experimenta la materia desde un estado inicial a uno final identificando los procesos y transformaciones que experimenta en situaciones de la vida cotidiana.",
+            "Fuerzas de contacto y a distancia (el magnetismo). Las fuerzas y sus efectos.",
+            "Propiedades de las máquinas simples y su efecto sobre las fuerzas. Aplicaciones y usos en la vida cotidiana."
+          ]
+        }
+      ]
+    },
+    "bloque_B_Tecnologia_y_digitalizacion": {
+      "subbloques": [
+        {
+          "titulo": "1. Digitalización del entorno personal de aprendizaje",
+          "contenidos": [
+            "Dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo.",
+            "Estrategias de búsquedas guiadas de información seguras y eficientes en Internet (valoración, discriminación, selección y organización)."
+          ]
+        },
+        {
+          "titulo": "2. Proyectos de diseño y pensamiento computacional",
+          "contenidos": [
+            "Fases de los proyectos de diseño: diseño, prototipado, prueba y comunicación.",
+            "Materiales, herramientas y objetos adecuados a la consecución de un proyecto de diseño.",
+            "Técnicas cooperativas sencillas para el trabajo en equipo y estrategias para la gestión de conflictos y promoción de conductas empáticas e inclusivas.",
+            "Iniciación en la programación a través de recursos analógicos (actividades desenchufadas) o digitales (plataformas digitales de iniciación en la programación, aplicaciones de programación por bloques, robótica educativa...)."
+          ]
+        }
+      ]
+    }
+  }
+}
